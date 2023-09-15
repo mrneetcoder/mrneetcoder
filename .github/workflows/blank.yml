@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" type="text/css" href="css.css">
+<!---<applet><java class="java"></java></applet>-->
+<body>
+    <h1><center>registration form</center></h1>
+    <center><form action="mrneetgamer@gamil.com">
+        name:<input type="text" name="name"><br>
+        <b>gender:  </b>
+        male:<input type="radio" name="gander">
+        female:<input type="radio" name="gander"><br>
+        <input type="checkbox" name="eduction">10 class
+        <input type="checkbox" name="eduction">12 class
+        <input type="checkbox" name="eduction">droper<br>
+        roll no.:<input type="number" name="roll no."><br>
+        D.O.B:<input type="date" name="dob"><br>
+        submit<input type="submit" name="submit">
+        reset<input type="reset" name="reset">
+    </form></center>
+</html>
